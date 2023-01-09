@@ -1,5 +1,5 @@
 /* Thank you, whoever checking this out */
-@media (prefers-color-scheme: dark) {
+
 * {
   margin: 0;
   padding: 0;
@@ -1379,7 +1379,6 @@ h5 {
     transform: translateX(.42em);
     transition: transform .2s ease;
   }
-}
 }
 
 @media (prefers-color-scheme: light) {
