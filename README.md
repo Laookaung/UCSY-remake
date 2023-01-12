@@ -1,7 +1,7 @@
 # UCSY-remake
 The first fun (sort of practice) project that I made while learning web dev.
 
-This project is based on this [University's website.](https://www.ucsy.edu.mm) , which used mainly bootstrap.
+This project is based on this [University's website](https://www.ucsy.edu.mm), which used mainly bootstrap.
 
 You can check out [live version here.](https://ucsy-remade.netlify.app/)
 
