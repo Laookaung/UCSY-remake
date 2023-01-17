@@ -163,18 +163,18 @@ h1::first-letter {
 
 .hamburger.b-active :nth-of-type(2) {
   opacity: 0;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 0.3s ease;
 }
 
 .hamburger.b-active :nth-of-type(1) {
   transform: translateY(.55em) rotate(45deg);
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 0.3s ease;
 }
 
 .hamburger.b-active :nth-of-type(3) {
   width: 1.5em;
   transform: translateY(-.55em) rotate(-45deg);
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: all 0.3s ease;
 }
 
 .name {
